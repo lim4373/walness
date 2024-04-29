@@ -15,6 +15,6 @@
   ![image](https://github.com/lim4373/walness/assets/114973162/9874743a-2d3b-494d-887f-f11b15b8c809)
 - ## 4. 결과 창 예시
   ![image](https://github.com/lim4373/walness/assets/114973162/7d22871c-c092-4cfd-87c4-4ae1dc2d7bc1)
-= ## 5. 웹 영
-https://github.com/lim4373/walness/assets/114973162/27b9d33d-d971-43a7-938d-601fa15ecd11
+- ## 5. 웹 영상
+  https://github.com/lim4373/walness/assets/114973162/27b9d33d-d971-43a7-938d-601fa15ecd11
 
